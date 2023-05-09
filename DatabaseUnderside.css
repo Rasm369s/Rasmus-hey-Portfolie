@@ -23,13 +23,13 @@ width:100%;
     .nav a{
     padding: 15px 15px;
     text-align: center;
-    color:white;
+    color:black;
     Font-size: 15px;
     display: block;
     float: left;
     }
     .nav a:hover{
-        background:black;
+        background:navy;
         color: whitesmoke;
         opacity:70%;
         border-radius:15px;
