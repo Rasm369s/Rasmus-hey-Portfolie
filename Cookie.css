@@ -1,0 +1,86 @@
+body {
+  background-image: url(billeder/Cookie%20baggrund.jpg);
+    box-shadow: 0 0 2px black(0, 0, 0, 1.06);
+    color: black;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.30;
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+
+h1 {
+  color: black;
+  text-align: center;
+    text-shadow: 2px 2px 3px lightblue;
+ border-style: inset;
+    width:500px;
+    margin: auto;
+    background-color:ghostwhite;
+border-width: 5px;
+border-color:black red black red;
+    border-radius:50px;
+}
+h2{
+    text-align: center;
+}
+
+o1{
+  border-bottom: 3px dotted black;
+}
+
+
+h3{
+    color:black; 
+text-align: center;
+
+}
+
+img{
+     display: block;
+    margin-left:auto;
+    margin-right: auto;
+}
+p {
+text-align: right;
+font-size: 20px;
+border-left:6px solid black;
+}
+p2 {
+   font-family:cursive; 
+    text-align: right;
+  font-size: 20px;
+border-left:6px solid black;
+    border-color:red   
+}
+#boks{
+    width: 900px;
+    margin: auto;
+    border:6px solid black;
+    background-color: lavender;
+    box-shadow:8px 10px 12px;
+    border-radius:40px;
+}
+
+#boks2{
+    width: 750px;
+    margin:auto;
+    border: 5px solid black;
+    background-color:aliceblue;
+    border-radius: 40px;
+}
+h6{
+ color:black; 
+font-size: 15px;
+margin: auto;
+margin-bottom: 10px;
+}
+
+div {
+  width: 500px;
+  border: 6px dotted black;
+  padding: 10px;
+  margin: auto;
+
+}
