@@ -29,7 +29,7 @@ width:100%;
     float: left;
     }
     .nav a:hover{
-        background:navy;
+        background:black;
         color: whitesmoke;
         opacity:70%;
         border-radius:15px;
